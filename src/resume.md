@@ -87,7 +87,7 @@ Projets
 2022 
 :	*Topcook*
 	[repo](https://github.com/Jayllyz/Topcook)  
-	Projet annuel de première année qui a consisté à réaliser un site web dynamique, nous avions choisi de créer un site web communautaire autour des recettes de cuisine.
+	Dans le cadre d'un projet de site web dynamique, nous avons décidé de créer un site web communautaire autour des recettes de cuisine.
 
 2021
 :	*A star*
@@ -97,7 +97,7 @@ Projets
 2019
 :	*Survive the Tempest*
 	[repo](https://github.com/Jayllyz/SurvivetheTempest)  
-	Algorithme de recherche de chemin dans un graphe réalisé dans le cadre d'un projet de deuxième année de cycle préparatoire.
+	Jeu de stratégie réalisé et inventé en duo, programmé en langage Python durant 4 mois en classe de terminale.
 
 Compétences
 ------------
