@@ -23,7 +23,7 @@ A propos
 Expériences
 ----------
 2023
-: 	*Développeur Back-End | Stage 2 mois*
+: 	*Développeur Back-End | Stage 2 mois*  
 	[Thales](https://www.thalesgroup.com/fr)
 
 	Conception et développement d’une API Rest avec spécification openAPI pour un module de bonifications.
@@ -76,27 +76,27 @@ Projets
 
 2023 
 :	*TeamEase*
-	[repo](https://github.com/Jayllyz/TeamEase)
-	Réalisation d'un site web, une application Android, un dashbaord statistique, un BOT d'FAQ ainsi que d'une API pour une entreprise de team building dans le cadre du projet annuel 2ième année
+	[repo](https://github.com/Jayllyz/TeamEase)  
+	Réalisation d'un site web, une application Android, un dashbaord statistique, un BOT d'FAQ ainsi que d'une API pour une entreprise de team building dans le cadre du projet annuel de 2ième année.
 
 2023 
 :	*TaskToDo*
-	[repo](https://github.com/Jayllyz/TaskToDo)
+	[repo](https://github.com/Jayllyz/TaskToDo)  
 	Projet de logiciel de planification de tâches réalisé en C avec la librairie GTK+3.2, l'UI est réalisée avec Glade.
 
 2022 
 :	*Topcook*
-	[repo](https://github.com/Jayllyz/Topcook)
+	[repo](https://github.com/Jayllyz/Topcook)  
 	Projet annuel de première année qui a consisté à réaliser un site web dynamique, nous avions choisi de créer un site web communautaire autour des recettes de cuisine.
 
 2021
 :	*A star*
-	[repo](https://github.com/Jayllyz/Astar)
+	[repo](https://github.com/Jayllyz/Astar)  
 	Algorithme de recherche de chemin dans un graphe réalisé dans le cadre d'un projet de deuxième année de cycle préparatoire.
 
 2019
-:	*A star*
-	[repo](https://github.com/Jayllyz/SurvivetheTempest)
+:	*Survive the Tempest*
+	[repo](https://github.com/Jayllyz/SurvivetheTempest)  
 	Algorithme de recherche de chemin dans un graphe réalisé dans le cadre d'un projet de deuxième année de cycle préparatoire.
 
 Compétences
