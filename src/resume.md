@@ -16,7 +16,7 @@ A propos
 
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://fr.linkedin.com/in/antodavid)
 
-<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
+<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/jayllyz)
 
 <span class="fas fa-code fa-lg"></span>&nbsp;&nbsp;[Codewars](https://www.codewars.com/users/Jayllyz)
 
