@@ -1,145 +1,127 @@
 <br /><br />
 
-![](https://github.com/yeikiu/yeikiu.github.io/raw/master/src/logo.png)
+![](https://github.com/jayllyz/jayllyz.github.io/raw/master/src/logo.png)
 
-# Joaquín Ocón
+# Antony David
 
-### Software Engineer • Senior Full-Stack Developer  
+### Étudiant développement logiciel
 
-----
-
-<i class="fas fa-quote-left fa-2x fa-pull-left fa-border"></i>
-"Life is a mountain of solvable problems, and I enjoy that."  
-&nbsp;&nbsp;&nbsp;&nbsp;-James Dyson
-
-----
+> Mon choix pour la filière en architecture logicielle à l’ESGI découle de ma passion pour le développement Back-end et le DevOps. J’y ai trouvé un environnement stimulant pour renforcer mes compétences dans ces domaines et contribuer à la création de systèmes performants et fiables.
 
 <br /><br />
 
-Personal Details
+A propos
 ---------
-<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
+<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;antonydavid945@gmail.com
 
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://fr.linkedin.com/in/antodavid)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
 
+<span class="fas fa-code fa-lg"></span>&nbsp;&nbsp;[Codewars](https://www.codewars.com/users/Jayllyz)
 
-Experience
+Expériences
 ----------
-2023 - Now
-: 	*Software Engineer | Full-Stack Developer*  
-	[Meetoptics Labs S.L.](https://meetoptics.com)
+2023
+: 	*Développeur Back-End | Stage 2 mois*
+	[Thales](https://www.thalesgroup.com/fr)
 
-2018 - 2022
-: 	*Software Engineer | Full-Stack Developer*  
-	[Kraken Crypto Exchange](https://kraken.com)
+	Conception et développement d’une API Rest avec spécification openAPI pour un module de bonifications.
 
-2017 - 2018
-: 	*Application Development Senior Analyst*  
-	[Accenture Outsourcing Services SA](https://www.accenture.com)
+	- Node.js, Typescript, PostgreSQL
 
-2015 - 2016
-:	*Project Manager | Back-End Developer*  
-	[Gobierno de Canarias](http://www.gobcan.es)  
-	Agenda Digital Canaria: Communication system for families and schools
+2022
+: 	*Développeur  web | Stage 1 mois*  
+	[Premier Octet](https://www.premieroctet.com/)
 
-2014 - 2017
-: 	*Android Developer | REST API Developer*  
-	[Kinder360](https://kinder360.com/)  
-	
-2014 - 2017
-:	*CTO | Co-Founder*  
-	[Frysbe](http://frysbe.com/)
+	Réalisation d’un site web permettant aux utilisateurs de générer des QR codes pour faire deviner une chaîne de caractères une fois les codes scannés.
 
-2013 - 2014
-:	*Full-Stack CRM Developer*  
-	[Ceindi SL](http://ceindi.es/)
+	- Remix, PostgreSQL, Prisma.
+  
+	Participation à la préparation du déploiement d’un site web d’e-commerce en Open Source.
 
-2012 - 2015
-:	*CTO | Co-Founder*  
-	[Team & Talent Technologies](http://teamandtalent.com/)
+	- GraphCMS, API GraphQL, Remix
+  
+2021
+: 	*Développeur web | Stage 1 mois*  
+	[Cap Collectif](https://www.cap-collectif.com/)
+
+	Utilisation de React/NextJS/GraphQL pour améliorer une plateforme d’analyse de données.
+
+2015
+: 	*Stage d'observation 5 jours*  
+	[Jolicode](https://jolicode.com/)
+
+	Stage d’observation de 5 jours dans une société spécialisée dans le développement Web et mobile avec une initiation des langages web. (HTML/CSS)
 
 <div class="page-break"></div>
 
-Education
+Formations
 ---------
-2016
-:	*Computer Engineer - Master’s Degree*  
-	Focus area: Software Engineering  
-	[Universidad de Las Palmas de Gran Canaria (Spain)](https://ulpgc.es)  
+2021 - 2024
+:	*Bachelor informatique*  
+	[ESGI](https://www.esgi.fr/) 
+
+2019 - 2021
+:	*Cycle préparatoire ingénieur*  
+	[ESIEA](https://www.esiea.fr/) 
+
+2015 - 2019
+:	*Baccalauréat S, Sciences de l'ingénieur*  
+	Option: Informatique et sciences du numérique (ISN)
+	[Lycée Langevin-Wallon](https://www.lycee-langevin-wallon.com/)  
 	
-Main Languages & IT Strengths
+Projets
 ------------
-<span class="fas fa-code fa-lg">
-:	Typescript, Javascript, Java, PHP, TeX, HTML, CSS
 
-<span class="fas fa-server fa-lg">
-:	NodeJS, Nginx, Apache, Tomcat, Docker
+2023 
+:	*TeamEase*
+	[repo](https://github.com/Jayllyz/TeamEase)
+	Réalisation d'un site web, une application Android, un dashbaord statistique, un BOT d'FAQ ainsi que d'une API pour une entreprise de team building dans le cadre du projet annuel 2ième année
 
-<span class="fas fa-database fa-lg">
-:	MariaDB, MySQL, PostreSQL, MongoDB, Redis
+2023 
+:	*TaskToDo*
+	[repo](https://github.com/Jayllyz/TaskToDo)
+	Projet de logiciel de planification de tâches réalisé en C avec la librairie GTK+3.2, l'UI est réalisée avec Glade.
 
-<span class="fas fa-code-branch fa-lg">
-:	React, NextJS, VueJS, AngularJS, TailwindCSS, Bootstrap
-
-<span class="fas fa-globe-americas fa-lg">
-:	GIT, Jira, Confluence, Slack
-
-Human Languages
-------------
-*Spanish*
-:	Native
-
-*English*
-:	Professional working proficiency  
-	Cambridge University First Certificate
-
-Awards
-------
-2015
-:	*Awarded by the FbStart Bootstrap Program*  
-	[Facebook Inc.](https://developers.facebook.com/fbstart)  
-	$5000 on Fb's technology award for [Frysbe](https://frysbe.com) Project
-
-2014
-:	*Selected to join the Área 31 Startup Incubator*  
-	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
-	[Kinder360](https://kinder360.com) was selected between applicants worldwide
-
-2018
-:	*1st Prize in FMP Hackathon by FEMEPA*  
-	[FEMEPA](http://femepa.org/web/)  
-	Project [EcoCanarias](https://ecocanarias.life)
-
-Personal Side-Projects
-----------
-2023
-: 	*MyHrefs.com*  
-	[https://myhrefs.com](https://myhrefs.com)  
-	🤩 Highly customisable social-content showcase
-
-2022
-: 	*DeLowCos Studio*  
-	[https://delowcos.com](https://delowcos.com)  
-	🎛️ Landing page experimenting the fresh framework on top of deno
+2022 
+:	*Topcook*
+	[repo](https://github.com/Jayllyz/Topcook)
+	Projet annuel de première année qui a consisté à réaliser un site web dynamique, nous avions choisi de créer un site web communautaire autour des recettes de cuisine.
 
 2021
-: 	*ts-kraken npm*  
-	[https://github.com/yeikiu/ts-kraken](https://github.com/yeikiu/ts-kraken)  
-	📈 A versatile unofficial ts-lib & node-repl-cli to operate against the Kraken Crypto Exchange
-
-2020
-: 	*Vue3 Markdown Blog*  
-	[https://github.com/yeikiu/vue3-md-blog](https://github.com/yeikiu/vue3-md-blog)  
-	✍️ Minimal config Vue3 + Markdown blog engine
+:	*A star*
+	[repo](https://github.com/Jayllyz/Astar)
+	Algorithme de recherche de chemin dans un graphe réalisé dans le cadre d'un projet de deuxième année de cycle préparatoire.
 
 2019
-: 	*WaAr - WhatsApp Auto-Reply bot*  
-	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	🤖💬 WhatsApp Auto-Reply node cli
+:	*A star*
+	[repo](https://github.com/Jayllyz/SurvivetheTempest)
+	Algorithme de recherche de chemin dans un graphe réalisé dans le cadre d'un projet de deuxième année de cycle préparatoire.
+
+Compétences
+------------
+<span class="fas fa-code fa-lg">
+:	PHP, Javascript, Typescript, Java, HTML, CSS
+
+<span class="fas fa-server fa-lg">
+:	C, NodeJS, Docker, Rust, Go, Bash, Python
+
+<span class="fas fa-database fa-lg">
+:	PostreSQL, MariaDB, MySQL
+
+<span class="fas fa-code-branch fa-lg">
+:	React, NextJS, Bootstrap
+
+Langues
+------------
+*Francais*
+:	Natale
+
+*Anglais*
+:	TOEIC 700
 
 <br /><br />
 
 ------
-> Download [PDF version](https://yeikiu.github.io/resume.pdf) | See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io)
+> Télécharger [PDF](https://jayllyz.github.io/resume.pdf) | Voir CV en ligne @ [https://jayllyz.github.io/](https://jayllyz.github.io/)
