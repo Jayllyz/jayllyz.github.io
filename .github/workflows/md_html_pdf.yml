@@ -13,7 +13,7 @@ jobs:
 
       - uses: docker://pandoc/core:3.1
         with:
-          args: --standalone -o index.html --css=src/style.css --self-contained src/resume.md
+          args: --standalone -o index.html --css=src/style.css --self-contained src/resume.md --include-in-header=src/favicon.html --metadata pagetitle="Antony David"
 
       - run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
