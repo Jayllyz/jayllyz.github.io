@@ -68,7 +68,7 @@ Formations
 
 2015 - 2019
 :	*Baccalauréat S, Sciences de l'ingénieur*  
-	Option: Informatique et sciences du numérique (ISN)
+	Option: Informatique et sciences du numérique (ISN)  
 	[Lycée Langevin-Wallon](https://www.lycee-langevin-wallon.com/)  
 	
 Projets
