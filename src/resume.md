@@ -59,7 +59,7 @@ Expériences
 Formations
 ---------
 2021 - 2024
-:	*Bachelor informatique*  
+:	*Bachelor européen, Chef de projet logiciel et réseau.*  
 	[ESGI](https://www.esgi.fr/) 
 
 2019 - 2021
