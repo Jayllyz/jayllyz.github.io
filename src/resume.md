@@ -23,12 +23,16 @@ A propos
 Expériences
 ----------
 2023
-: 	*Développeur Back-End | Stage 2 mois*  
+: 	*Développeur | Stage 2 mois*  
 	[Thales](https://www.thalesgroup.com/fr)
 
-	Conception et développement d’une API Rest avec spécification openAPI pour un module de bonifications.
+	Conception et développement d’une API Rest en NodeJS avec spécification OpenAPI pour un module de bonifications, incluant la mise en place d'un script en python de synchronisation des tickets des parkings avec le serveur. 
 
-	- Node.js, Typescript, PostgreSQL
+	- Fastify, Docker, NodeJS, Python
+
+	J'ai également joué un rôle dans l'implémentation d'une interface de paramétrage sur la supervision web en react, permettant une gestion des configurations liées au module de bonifications.
+
+	- React, Fastify, Blueprint
 
 2022
 : 	*Développeur  web | Stage 1 mois*  
