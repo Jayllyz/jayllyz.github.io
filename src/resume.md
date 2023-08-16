@@ -51,6 +51,8 @@ Expériences
 	[Cap Collectif](https://www.cap-collectif.com/)
 
 	Utilisation de React/NextJS/GraphQL pour améliorer une plateforme d’analyse de données.
+ 
+<div class="page-break"></div>
 
 2015
 : 	*Stage d'observation 5 jours*  
@@ -58,7 +60,6 @@ Expériences
 
 	Stage d’observation de 5 jours dans une société spécialisée dans le développement Web et mobile avec une initiation des langages web. (HTML/CSS)
 
-<div class="page-break"></div>
 
 Formations
 ---------
