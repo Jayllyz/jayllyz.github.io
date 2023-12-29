@@ -18,8 +18,6 @@ A propos
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/jayllyz)
 
-<span class="fas fa-code fa-lg"></span>&nbsp;&nbsp;[Codewars](https://www.codewars.com/users/Jayllyz)
-
 Expériences
 ----------
 2023
@@ -107,16 +105,10 @@ Projets
 Compétences
 ------------
 <span class="fas fa-code fa-lg">
-:	PHP, Javascript, Typescript, Java, HTML, CSS
-
-<span class="fas fa-server fa-lg">
-:	C, NodeJS, Docker, Rust, Go, Bash, Python
-
-<span class="fas fa-database fa-lg">
-:	PostreSQL, MariaDB, MySQL
+: C, PHP, Typescript, React, NodeJS, Python, Bash, Java, Rust
 
 <span class="fas fa-code-branch fa-lg">
-:	React, NextJS, Bootstrap
+: Docker, Git, PostgreSQL, Kubernetes
 
 Langues
 ------------
@@ -124,7 +116,7 @@ Langues
 :	Natale
 
 *Anglais*
-:	TOEIC 700
+:	TOEIC 830
 
 <br /><br />
 
