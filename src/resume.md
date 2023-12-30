@@ -1,25 +1,31 @@
 <br /><br />
 
-![](https://github.com/jayllyz/jayllyz.github.io/raw/master/src/logo.png)
-
 # Antony David
 
-### Étudiant développement logiciel
+![Logo](https://github.com/jayllyz/jayllyz.github.io/raw/master/src/logo.png)
+
+### Apprenti développeur logiciel
 
 > Mon choix pour la filière en architecture logicielle à l’ESGI découle de ma passion pour le développement Back-end et le DevOps. J’y ai trouvé un environnement stimulant pour renforcer mes compétences dans ces domaines et contribuer à la création de systèmes performants et fiables.
 
-<br /><br />
-
 A propos
 ---------
-<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;antonydavid945@gmail.com
+- <span class="fas fa-envelope fa-lg"></span> antonydavid945@gmail.com
+- <span class="fab fa-linkedin fa-lg"></span> [LinkedIn](https://fr.linkedin.com/in/antodavid)
+- <span class="fab fa-github fa-lg"></span> [Github](https://github.com/jayllyz)
 
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://fr.linkedin.com/in/antodavid)
-
-<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/jayllyz)
 
 Expériences
 ----------
+2023 - 2024
+: 	*Développeur | Alternance 1 an*  
+	[Thales](https://www.thalesgroup.com/fr)
+
+	Participation à la maintenance et l'évolution d'une application web de supervision de parking en React et Fastify. Ainsi que de mon API précédemment développée durant mon stage de 2 mois.
+
+	- React, Fastify, Blueprint, Docker, NodeJS, Python
+
+
 2023
 : 	*Développeur | Stage 2 mois*  
 	[Thales](https://www.thalesgroup.com/fr)
@@ -44,13 +50,14 @@ Expériences
 
 	- GraphCMS, API GraphQL, Remix
   
+<div class="page-break"></div> 
+  
 2021
 : 	*Développeur web | Stage 1 mois*  
 	[Cap Collectif](https://www.cap-collectif.com/)
 
 	Utilisation de React/NextJS/GraphQL pour améliorer une plateforme d’analyse de données.
  
-<div class="page-break"></div>
 
 2015
 : 	*Stage d'observation 5 jours*  
@@ -121,4 +128,4 @@ Langues
 <br /><br />
 
 ------
-> Télécharger [PDF](https://jayllyz.github.io/resume.pdf) | Voir CV en ligne @ [https://jayllyz.github.io/](https://jayllyz.github.io/)
+> Télécharger [PDF](https://jayllyz.github.io/resume.pdf) | Voir CV en ligne [https://jayllyz.github.io/](https://jayllyz.github.io/)
