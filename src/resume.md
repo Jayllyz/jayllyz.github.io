@@ -9,7 +9,7 @@
 A propos
 ---------
 
-- <span class="fas fa-envelope fa-lg"></span> [mail](mailto:antonydavid945@gmail.com)
+- <span class="fas fa-envelope fa-lg"></span> [antonydavid945@gmail.com](mailto:antonydavid945@gmail.com)
 - <span class="fab fa-linkedin fa-lg"></span> [LinkedIn](https://fr.linkedin.com/in/antodavid)
 - <span class="fab fa-github fa-lg"></span> [Github](https://github.com/jayllyz)
 
@@ -111,9 +111,11 @@ Projets
 Compétences
 ------------
 
-- <span class="fas fa-code fa-lg"></span> C, PHP, Typescript, React, NodeJS, Python, Bash, Java, Rust
+<span class="fas fa-code fa-lg">
+: C, PHP, Typescript, React, NodeJS, Python, Bash, Java, Rust
 
-- <span class="fas fa-code-branch fa-lg"></span> Docker, Git, PostgreSQL, Kubernetes
+<span class="fas fa-code-branch fa-lg">
+: Docker, Git, PostgreSQL, Kubernetes
 
 Langues
 ------------
