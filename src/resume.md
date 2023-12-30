@@ -9,9 +9,11 @@
 A propos
 ---------
 
-- <span class="fas fa-envelope fa-lg"></span> [antonydavid945@gmail.com](mailto:antonydavid945@gmail.com)
-- <span class="fab fa-linkedin fa-lg"></span> [LinkedIn](https://fr.linkedin.com/in/antodavid)
-- <span class="fab fa-github fa-lg"></span> [Github](https://github.com/jayllyz)
+<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;[antonydavid945@gmail.com](mailto:antonydavid945@gmail.com)
+
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://fr.linkedin.com/in/antodavid)
+
+<span class="fab fa-github fa-lg"></span> &nbsp;&nbsp;[Github](https://github.com/jayllyz)
 
 
 Expériences
@@ -91,7 +93,7 @@ Projets
 2023 
 :	*TaskToDo*
 	[repo](https://github.com/Jayllyz/TaskToDo)  
-	Projet de logiciel de planification de tâches réalisé en C avec la librairie GTK+3.2, l'UI est réalisée avec Glade.
+	Logiciel de planification de tâches en C avec l'utilisation de la librairie GTK+3.2 pour l'interface utilisateur réalisée via Glade.
 
 2022 
 :	*Topcook*
