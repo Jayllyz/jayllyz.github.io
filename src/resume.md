@@ -117,7 +117,7 @@ Compétences
 : C, PHP, Typescript, React, NodeJS, Python, Bash, Java, Rust
 
 <span class="fas fa-code-branch fa-lg">
-: Docker, Git, PostgreSQL, Kubernetes
+: Docker, Git, PostgreSQL, Kubernetes, Docker Swarm
 
 Langues
 ------------
