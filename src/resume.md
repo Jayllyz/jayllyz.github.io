@@ -22,12 +22,14 @@ Expériences
 : 	*Développeur | Alternance 1 an*  
 	[Thales](https://www.thalesgroup.com/fr)
 
-	Participation à la maintenance et l'évolution d'une application web de supervision de parking en React et Fastify. Ainsi que de mon API précédemment développée durant mon stage de 2 mois.
-	Mise en place d'un module de génération de rapports dynamiques à l'aide de JasperReports.
-	Migration de Mercurial vers Git pour l'ensemble des projets.
-	Conception et développement d'une application web de gestion de plaques d'immatriculation des abonnés d'un parking.
+	Contribué à la maintenance et l'évolution d'une application web de supervision de parking utilisant React et Fastify.
 
 	- React, Fastify, Blueprint, Docker, NodeJS, Python
+  
+	Implémenté un module de génération de rapports dynamiques avec JasperReports, facilitant la génération de rapports personnalisés pour les clients.
+	Dirigé la migration de Mercurial vers Git pour l'enssemble des projets, mettant en place des scripts de migration et de nettoyage des dépôts.
+
+	Conçu et développé une application web de gestion des plaques d'immatriculating pour les abonnés des parkings, utilisant NextJS.
 
 
 2023
