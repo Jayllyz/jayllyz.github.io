@@ -23,11 +23,9 @@ Expériences
 	[Thales](https://www.thalesgroup.com/fr)
 
 	Contribué à la maintenance et l'évolution d'une application web de supervision de parking utilisant React et Fastify.
-
-	- React, Fastify, Blueprint, Docker, NodeJS, Python
   
 	Implémenté un module de génération de rapports dynamiques avec JasperReports, facilitant la génération de rapports personnalisés pour les clients.
-	Dirigé la migration de Mercurial vers Git pour l'enssemble des projets, mettant en place des scripts de migration et de nettoyage des dépôts.
+	Dirigé la migration de Mercurial vers Git pour l'enssemble des projets, mettant en place des scripts de migration.
 
 	Conçu et développé une application web de gestion des plaques d'immatriculating pour les abonnés des parkings, utilisant NextJS.
 
