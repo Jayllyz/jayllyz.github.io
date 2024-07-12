@@ -23,6 +23,9 @@ Expériences
 	[Thales](https://www.thalesgroup.com/fr)
 
 	Participation à la maintenance et l'évolution d'une application web de supervision de parking en React et Fastify. Ainsi que de mon API précédemment développée durant mon stage de 2 mois.
+	Mise en place d'un module de génération de rapports dynamiques à l'aide de JasperReports.
+	Migration de Mercurial vers Git pour l'ensemble des projets.
+	Conception et développement d'une application web de gestion de plaques d'immatriculation des abonnés d'un parking.
 
 	- React, Fastify, Blueprint, Docker, NodeJS, Python
 
@@ -114,10 +117,10 @@ Compétences
 ------------
 
 <span class="fas fa-code fa-lg">
-: C, PHP, Typescript, React, NodeJS, Python, Bash, Java, Rust
+: C, Typescript, React, NodeJS, Python, PHP, Bash, Java, Rust
 
 <span class="fas fa-code-branch fa-lg">
-: Docker, Git, PostgreSQL, Kubernetes, Docker Swarm
+: Docker, Git, Github Actions, PostgreSQL, Kubernetes, Docker Swarm
 
 Langues
 ------------
