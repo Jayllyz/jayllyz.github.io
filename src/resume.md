@@ -18,6 +18,13 @@ A propos
 
 Expériences
 ----------
+2024 - 2026
+: 	*Développeur | Alternance 2 an*  
+	[Hitachi](https://www.hitachirail.com/)
+
+	Evolution d'une solution de test automatisé pour le contrôle qualité des équipements
+	
+	Membre de l'équipe Agile pour le développement d'une nouvelle solution de gestion de parking
 2023 - 2024
 : 	*Développeur | Alternance 1 an*  
 	[Thales](https://www.thalesgroup.com/fr)
