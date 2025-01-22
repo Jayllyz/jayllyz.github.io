@@ -48,6 +48,8 @@ Expériences
 	J'ai également joué un rôle dans l'implémentation d'une interface de paramétrage sur la supervision web en react, permettant une gestion des configurations liées au module de bonifications.
 
 	- React, Fastify, Blueprint
+  
+<div class="page-break"></div> 
 
 2022
 : 	*Développeur  web | Stage 1 mois*  
@@ -61,7 +63,6 @@ Expériences
 
 	- GraphCMS, API GraphQL, Remix
   
-<div class="page-break"></div> 
   
 2021
 : 	*Développeur web | Stage 1 mois*  
