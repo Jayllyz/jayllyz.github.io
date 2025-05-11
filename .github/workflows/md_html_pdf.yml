@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - uses: docker://pandoc/core:3.1
+    - uses: docker://pandoc/core:3-alpine
       with:
         args: --standalone -o index.html --css=src/style.css --self-contained src/resume.md --include-in-header=src/favicon.html --metadata pagetitle="Antony David"
 

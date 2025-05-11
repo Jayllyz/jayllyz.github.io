@@ -21,7 +21,7 @@ Expériences
 2024 - 2026
 : 	*Développeur | Alternance 2 an*  
 	[Hitachi](https://www.hitachirail.com/)
-	Logiciel de qualification d'équipements électroniques : Application en C++ (QT) pour automatiser les tests de résistance. 
+	Logiciel de qualification d'équipements électroniques : Application en C++ (QT) pour automatiser les tests de résistance.
 
 	Évolution d'une solution de test automatisé (TAU): Intégration de nouveaux modules de test et maintenance du logiciel.
 	
