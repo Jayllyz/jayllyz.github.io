@@ -21,10 +21,12 @@ Expériences
 2024 - 2026
 : 	*Développeur | Alternance 2 an*  
 	[Hitachi](https://www.hitachirail.com/)
+	Logiciel de qualification d'équipements électroniques : Application en C++ (QT) pour automatiser les tests de résistance. 
 
-	Evolution d'une solution de test automatisé pour le contrôle qualité des équipements
+	Évolution d'une solution de test automatisé (TAU): Intégration de nouveaux modules de test et maintenance du logiciel.
 	
-	Membre de l'équipe Agile pour le développement d'une nouvelle solution de gestion de parking
+	Contribution à une refonte logicielle majeure : Membre d'une équipe agile développant une nouvelle solution de gestion de parking avec architecture moderne, expertise Frontend et DevOps. (React, Jenkins, Kubernetes)
+
 2023 - 2024
 : 	*Développeur | Alternance 1 an*  
 	[Thales](https://www.thalesgroup.com/fr)
