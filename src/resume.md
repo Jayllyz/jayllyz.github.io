@@ -19,24 +19,32 @@ A propos
 Expériences
 ----------
 2024 - 2026
-: 	*Développeur | Alternance 2 an*  
+: 	*Développeur & DevOps | Alternance 2 an*  
 	[Hitachi](https://www.hitachirail.com/)
-	Logiciel de qualification d'équipements électroniques : Application en C++ (QT) pour automatiser les tests de résistance.
 
-	Évolution d'une solution de test automatisé (TAU): Intégration de nouveaux modules de test et maintenance du logiciel.
-	
-	Contribution à une refonte logicielle majeure : Membre d'une équipe agile développant une nouvelle solution de gestion de parking avec architecture moderne, expertise Frontend et DevOps. (React, Jenkins, Kubernetes)
+	Logiciel de qualification d'équipements électroniques : développement d'une application C++/Qt pour automatiser les tests de résistance.
+
+	Maintenance d'une API Node.js en production : résolution de bugs, optimisations de performances, correctifs de sécurité et déploiement via Coolify.
+
+	Refonte majeure d'une solution de gestion de parking en méthode Agile :
+	- Travail au sein d'une équipe internationale, collaboration avec des testeurs QA
+	- Développement frontend React et contributions backend Java
+	- Administration et évolution du cluster Kubernetes (RKE2) : mises à jour, gestion des incidents, supervision de l'infrastructure et déploiement on-premise/cloud
+	- Suivi DevOps : pipelines CI/CD, gestion de versions, automatisation des tests.
 
 2023 - 2024
 : 	*Développeur | Alternance 1 an*  
 	[Thales](https://www.thalesgroup.com/fr)
 
-	Contribué à la maintenance et l'évolution d'une application web de supervision de parking utilisant React et Fastify.
-  
-	Implémenté un module de génération de rapports dynamiques avec JasperReports, facilitant la génération de rapports personnalisés pour les clients.
-	Dirigé la migration de Mercurial vers Git pour l'enssemble des projets, mettant en place des scripts de migration.
+	Poursuite et évolution de l'API Node.js développée lors de mon stage : nouvelles fonctionnalités, maintenance et mise en production.
 
-	Conçu et développé une application web de gestion des plaques d'immatriculating pour les abonnés des parkings, utilisant NextJS.
+	Maintenance et évolution d'une application web de supervision de parking (React, Fastify).
+
+	Dirigé la migration de Mercurial vers Git pour l'enssemble des projets, mettant en place des scripts et des guides pour l'équipe.
+
+	Évolution d'une solution de test automatisé (TAU) : intégration de nouveaux modules de test, résolution de bugs et maintenance du logiciel.
+
+	Conçu et développé une application web de gestion des plaques d'immatriculation pour les abonnés d'un parking, utilisant Next.js.
 
 
 2023
